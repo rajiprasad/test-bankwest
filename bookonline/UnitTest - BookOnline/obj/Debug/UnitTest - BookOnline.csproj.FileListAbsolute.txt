@@ -1,0 +1,7 @@
+C:\PR\BW\bookonline\UnitTest - BookOnline\obj\Debug\UnitTest - BookOnline.csprojResolveAssemblyReference.cache
+C:\PR\BW\bookonline\UnitTest - BookOnline\bin\Debug\UnitTest - BookOnline.dll
+C:\PR\BW\bookonline\UnitTest - BookOnline\bin\Debug\UnitTest - BookOnline.pdb
+C:\PR\BW\bookonline\UnitTest - BookOnline\bin\Debug\bookonline.exe
+C:\PR\BW\bookonline\UnitTest - BookOnline\bin\Debug\bookonline.pdb
+C:\PR\BW\bookonline\UnitTest - BookOnline\obj\Debug\UnitTest - BookOnline.dll
+C:\PR\BW\bookonline\UnitTest - BookOnline\obj\Debug\UnitTest - BookOnline.pdb

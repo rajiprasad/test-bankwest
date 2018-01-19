@@ -1,0 +1,6 @@
+C:\PR\BW\bookonline\bookonline\bin\Debug\bookonline.exe.config
+C:\PR\BW\bookonline\bookonline\bin\Debug\bookonline.exe
+C:\PR\BW\bookonline\bookonline\bin\Debug\bookonline.pdb
+C:\PR\BW\bookonline\bookonline\obj\Debug\bookonline.csprojResolveAssemblyReference.cache
+C:\PR\BW\bookonline\bookonline\obj\Debug\bookonline.exe
+C:\PR\BW\bookonline\bookonline\obj\Debug\bookonline.pdb

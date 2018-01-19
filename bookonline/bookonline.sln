@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookonline", "bookonline\bookonline.csproj", "{7E29CDA0-61B9-4943-AD71-8FDB442F46C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest - BookOnline", "UnitTest - BookOnline\UnitTest - BookOnline.csproj", "{ABE7BA98-0361-42B8-854C-DD8205604ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E29CDA0-61B9-4943-AD71-8FDB442F46C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E29CDA0-61B9-4943-AD71-8FDB442F46C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E29CDA0-61B9-4943-AD71-8FDB442F46C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E29CDA0-61B9-4943-AD71-8FDB442F46C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE7BA98-0361-42B8-854C-DD8205604ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE7BA98-0361-42B8-854C-DD8205604ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE7BA98-0361-42B8-854C-DD8205604ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE7BA98-0361-42B8-854C-DD8205604ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
